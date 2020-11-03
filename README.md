@@ -1,4 +1,6 @@
-# New Project
+# Minesweeper
+
+A simple minesweeper game implemented in svelte, for learning purposes.
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
